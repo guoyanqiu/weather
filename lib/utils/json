@@ -1,0 +1,30 @@
+{
+  "cityid": "101110101",
+  "date": "2019-12-16",
+  "week": "星期一",
+  "update_time": "08:50",
+  "city": "西安",
+  "cityEn": "xian",
+  "country": "中国",
+  "countryEn": "China",
+  "wea": "阴",
+  "wea_img": "yin",
+  "tem": "4",
+  "tem1": "8",
+  "tem2": "-1",
+  "win": "静风",
+  "win_speed": "0级",
+  "win_meter": "",
+  "humidity": "73%",
+  "visibility": "暂缺",
+  "pressure": "976",
+  "air": "122",
+  "air_pm25": "122",
+  "air_level": "轻度污染",
+  "air_tips": "儿童、老年人及心脏病、呼吸系统疾病患者应尽量减少体力消耗大的户外活动。",
+  "alarm": {
+    "alarm_type": "",
+    "alarm_level": "",
+    "alarm_content": ""
+  }
+}
