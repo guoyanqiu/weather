@@ -64,8 +64,8 @@ class _MyHomePageState extends State<MyHomePage> {
     return Column(
       children: <Widget>[
         Text(_wheather.city  + "   "+_wheather.date + "  "+_wheather.week),
-        Text("天气：" +_wheather.wea +"  温度：" +_wheather.tem +"℃ 风力：" + _wheather.winSpeed.toString()),
-        Text("建议:"+_wheather.airTips),
+        Text("天气：${_wheather.wea}  温度：${_wheather.tem}℃ 风力：${_wheather.winSpeed}"),
+        Text("建议:${_wheather.airTips}"),
         RaisedButton(
           onPressed: () {this.show(context);
           },
